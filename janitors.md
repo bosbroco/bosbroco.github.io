@@ -1,4 +1,8 @@
-# Some janitors we know
+---
+layout: page
+title: Some janitors we know
+permalink: /janitors/
+---
 
 * Mark
 * Doug
